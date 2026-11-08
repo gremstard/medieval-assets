@@ -1,0 +1,19 @@
+# Asset archives are distributed via GitHub Releases, not tracked in git.
+# GitHub rejects files over 100 MB, and these are already-compressed archives
+# that gain nothing from further compression. See README.md.
+*.zip
+*.rar
+*.7z
+*.ogg
+*.wav
+*.fbx
+*.blend
+
+# Preserved pre-Release git history (safe to delete to reclaim ~1.2 GB)
+.git.old-backup/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
