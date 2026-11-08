@@ -60,6 +60,6 @@ Compare the leading characters against the table.
 ## Licensing
 
 These are third-party asset packs, each carrying its own license from its
-original vendor. This repository is private, and the archives are mirrored
-here for personal backup and convenience only — check each pack's bundled
-license before redistributing or shipping anything built from it.
+original vendor — mostly free/standard-license packs. Check the license
+bundled inside a given pack before shipping anything built from it
+commercially; the terms vary between vendors.
