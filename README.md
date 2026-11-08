@@ -26,11 +26,12 @@ allows up to 2 GB per file and doesn't count against repository size.
 | `Universal.Base.Characters.Standard.zip` | 129M | `fdbf1804c90dfc1e…` |
 | `Weapons_Shields_Free.zip` | 448K | `f3e838ff7adde8a1…` |
 | `medieval_village_clear_pbr_review.zip` | 14M | `302114734653aca4…` |
+| `modular_village_collection.zip` | 864K | `47345eb9be0463ef…` |
 | `soiTavern_fbx.zip` | 320M | `21e31f5ed0bb91ff…` |
 | `WeaponsPack.rar` | 2.7M | `b0df80d07fcb8c64…` |
 | `Medieval.Melancholy.ogg` | 1.5M | `b6afc02914c97750…` |
 
-Total payload: 1.19 GB across 12 assets.
+Total payload: 1.19 GB across 13 assets.
 
 Note: GitHub rewrites spaces and brackets in release asset names to dots, so
 the names above differ from the original vendor filenames (e.g.
