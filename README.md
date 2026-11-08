@@ -15,22 +15,27 @@ allows up to 2 GB per file and doesn't count against repository size.
 
 ## Contents
 
-| Archive | Size | SHA-256 (truncated) |
+| Release asset | Size | SHA-256 (truncated) |
 |---|---:|---|
-| `5_free_medieval_village_textures.zip` |  74M | `7cabbe71fe353505…` |
-| `Fantasy Props MegaKit[Standard].zip` | 148M | `8b6f7e806d222e58…` |
-| `Medieval Village MegaKit[Standard].zip` | 154M | `e60dea67c10f30dc…` |
-| `Modular Character Outfits - Fantasy[Standard].zip` | 288M | `c3468b18871cc8c8…` |
-| `Stylized Nature MegaKit[Standard].zip` | 103M | `298f6732b872e4cf…` |
-| `Universal Animation Library[Standard].zip` |  15M | `cc73fc4e495b8295…` |
-| `Universal Base Characters[Standard].zip` | 129M | `fdbf1804c90dfc1e…` |
+| `5_free_medieval_village_textures.zip` | 74M | `7cabbe71fe353505…` |
+| `Fantasy.Props.MegaKit.Standard.zip` | 148M | `8b6f7e806d222e58…` |
+| `Medieval.Village.MegaKit.Standard.zip` | 154M | `e60dea67c10f30dc…` |
+| `Modular.Character.Outfits.-.Fantasy.Standard.zip` | 288M | `c3468b18871cc8c8…` |
+| `Stylized.Nature.MegaKit.Standard.zip` | 103M | `298f6732b872e4cf…` |
+| `Universal.Animation.Library.Standard.zip` | 15M | `cc73fc4e495b8295…` |
+| `Universal.Base.Characters.Standard.zip` | 129M | `fdbf1804c90dfc1e…` |
 | `Weapons_Shields_Free.zip` | 448K | `f3e838ff7adde8a1…` |
-| `medieval_village_clear_pbr_review.zip` |  14M | `302114734653aca4…` |
+| `medieval_village_clear_pbr_review.zip` | 14M | `302114734653aca4…` |
 | `soiTavern_fbx.zip` | 320M | `21e31f5ed0bb91ff…` |
 | `WeaponsPack.rar` | 2.7M | `b0df80d07fcb8c64…` |
-| `Medieval Melancholy.ogg` | 1.5M | `b6afc02914c97750…` |
+| `Medieval.Melancholy.ogg` | 1.5M | `b6afc02914c97750…` |
 
-Total payload: ~1.2 GB across 12 files.
+Total payload: 1.19 GB across 12 assets.
+
+Note: GitHub rewrites spaces and brackets in release asset names to dots, so
+the names above differ from the original vendor filenames (e.g.
+`Fantasy Props MegaKit[Standard].zip` is published as
+`Fantasy.Props.MegaKit.Standard.zip`).
 
 ## Downloading
 
